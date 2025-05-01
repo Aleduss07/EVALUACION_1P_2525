@@ -3,8 +3,8 @@
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** Alexis Eduaro López Guerrero
-**Fecha:** 30-04-2025
+**Nombre del Estudiante:** Alexis López 
+**Fecha:** 30/04/2025
 
 ---
 
@@ -81,15 +81,7 @@
 
 **📝 Respuesta:**
 
-1. **Configurar un archivo `.gitignore`**
-
-![alt text](image-4.png)
-
-2. Explicación .gitignore
-
-Función del archivo .gitignore: Especifica archivos o carpetas que Git debe ignorar, es decir, no los rastreará ni los incluirá en los commits.
-
-![alt text](image-5.png)
+<!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
 
 ---
 
@@ -119,22 +111,7 @@ Función del archivo .gitignore: Especifica archivos o carpetas que Git debe ign
 
 **📝 Respuesta:**
 
-1. Descripción del proceso:
-
-- Se inicializó Git Flow.
-- Se creó una rama feature/ingresar-encabezado.
-- Se completó el encabezado del README.md.
-- Se hicieron commits intermedios.
-- Al finalizar, Git Flow fusionó la feature en develop y eliminó la rama de forma automática.
-
-![alt text](image-6.png)
-![alt text](image-7.png)
-
-2. Ventajas de Git Flow:
-
-- Organización clara del flujo de trabajo.
-- Facilita el trabajo colaborativo en funcionalidades aisladas.
-- Evita errores al tener ramas específicas para desarrollo, features, releases, etc.
+<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
 
 ---
 
@@ -167,24 +144,7 @@ Función del archivo .gitignore: Especifica archivos o carpetas que Git debe ign
 
 **📝 Respuesta:**
 
-1. Proceso:
-
-- Ir al repositorio en GitHub (fork).
-- Hacer clic en la pestaña “Issues”.
-- Clic en “New issue”.
-- Insertar el título.
-- Insertar la descripcion.
-- Crear el nuevo Issue
-
-![alt text](image-8.png)
-
-2. Numero de Issue: #9
-
-- Issue: Es una tarea, sugerencia o reporte de error creado en GitHub. Sirve como un sistema de seguimiento.
-- Pull Request (PR): Solicitud para fusionar cambios de una rama a otra. Se revisa antes de ser aceptado.
-- Diferencia: El issue es para planear y documentar, el PR es para aplicar el cambio. Ambos se pueden vincular.
-
-
+<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
 ---
 
