@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
+# Universidad Técnica de Ambato
+## Facultad de Ingeniería en Sstemas, Electónica e Industrial
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Alexis Eduaro López Guerrero
+**Fecha:** 30-04-2025
 
 ---
 
@@ -27,6 +27,10 @@
 - `fork`  
 - `git pull`
 
+1. git clone: Clona un repositorio completo desde GitHub u otra fuente remota a la maquina local en la cual se usará.
+2. fork: Crea una copia de un repositorio en la cuenta de GitHub. Es útil para contribuir a proyectos sin acceso directo al original.
+3. git pull: Actualiza la copia local con los últimos cambios desde el repositorio remoto.
+
 ### Parte práctica:
 
 - Realizar un **fork** de este repositorio en la cuenta personal de GitHub del estudiante.
@@ -38,7 +42,25 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+- ¿Cómo se realizó el fork?
+1. Ingresar al repositorio original en GitHub y di clic en el botón "Fork" en la parte superior derecha.
+2. Seleccionar la cuenta personal para crear el fork.
+
+![alt text](image.png)
+
+- ¿Cómo se realizó el clone del fork?
+
+1. Copiar la URL del repositorio forkeado en mi cuenta.
+2. Clonar en la terminal.
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+- ¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?
+
+1. Usando el comando git remote -v
+
+![alt text](image-3.png)
 
 ---
 
@@ -59,7 +81,15 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
+1. **Configurar un archivo `.gitignore`**
+
+![alt text](image-4.png)
+
+2. Explicación .gitignore
+
+Función del archivo .gitignore: Especifica archivos o carpetas que Git debe ignorar, es decir, no los rastreará ni los incluirá en los commits.
+
+![alt text](image-5.png)
 
 ---
 
@@ -89,7 +119,22 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+1. Descripción del proceso:
+
+- Se inicializó Git Flow.
+- Se creó una rama feature/ingresar-encabezado.
+- Se completó el encabezado del README.md.
+- Se hicieron commits intermedios.
+- Al finalizar, Git Flow fusionó la feature en develop y eliminó la rama de forma automática.
+
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+2. Ventajas de Git Flow:
+
+- Organización clara del flujo de trabajo.
+- Facilita el trabajo colaborativo en funcionalidades aisladas.
+- Evita errores al tener ramas específicas para desarrollo, features, releases, etc.
 
 ---
 
@@ -122,7 +167,24 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+1. Proceso:
+
+- Ir al repositorio en GitHub (fork).
+- Hacer clic en la pestaña “Issues”.
+- Clic en “New issue”.
+- Insertar el título.
+- Insertar la descripcion.
+- Crear el nuevo Issue
+
+![alt text](image-8.png)
+
+2. Numero de Issue: #9
+
+- Issue: Es una tarea, sugerencia o reporte de error creado en GitHub. Sirve como un sistema de seguimiento.
+- Pull Request (PR): Solicitud para fusionar cambios de una rama a otra. Se revisa antes de ser aceptado.
+- Diferencia: El issue es para planear y documentar, el PR es para aplicar el cambio. Ambos se pueden vincular.
+
+
 
 ---
 
